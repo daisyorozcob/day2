@@ -1,0 +1,26 @@
+h1 {
+    color:rgb(231, 140, 155);
+    background-color: rgb(195, 180, 209);
+    font-size: 70px;
+    text-align: center;
+    font-style: italic;
+}
+
+p {
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color:rgb(239, 167, 179);
+}
+
+div {
+    text-align: center;
+}
+
+body {
+    background-color: beige;
+    font-size: 35px;
+    text-align: center;
+    color: rgb(191, 175, 206);
+    
+}
